@@ -25,6 +25,7 @@
 	},
 	"homepage": "https://github.com/amansinghtech/Typescript-Template#readme",
 	"devDependencies": {
+		"@types/express": "^4.17.21",
 		"@types/lodash": "^4.14.202",
 		"clean-webpack-plugin": "^4.0.0",
 		"nodemon": "^3.0.2",
@@ -38,6 +39,7 @@
 	},
 	"dependencies": {
 		"dotenv": "^16.3.1",
+		"express": "^4.19.2",
 		"lodash": "^4.17.21"
 	}
 }
